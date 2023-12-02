@@ -8,6 +8,6 @@
 .celula {
   min-width: 50px;
   min-height: 50px;
-  background-color: #fff;
+  background-color: #f00;
   border: 1px solid #000;
 }
